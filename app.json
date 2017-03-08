@@ -1,8 +1,8 @@
 {
   "name": "FB Messenger Platform Getting Started",
   "description": "Template for FB Messenger bots",
-  "repository": "https://github.com/babi4/vctest",
+  "repository": "https://github.com/nemirovez/chatbot",
   "logo": "",
-  "keywords": ["vctest", "fb", "Messenger"],
+  "keywords": ["chatbot", "fb", "Messenger"],
   "image": ""
 }
