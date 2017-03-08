@@ -9,8 +9,8 @@ var express = require('express');
 var request = require('superagent');
 var bodyParser = require('body-parser');
 
-var pageToken = 'EAAYnb8BxbQcBAAMIFH21xZCtIRhYZCwqKFJAqO7ldJQIyKSckTRaKpO06ZB27nq0qErVurl9sJG4gUApCSZAeAmbF9dsdOTwc6hwWhWIEHXGvrz1qzXQwAZAEyELsktBxs9ZCCwCcto65iqNTsPANvoyzQJZAZBrqzEevulhZCNZCdOgZDZD';
-var verifyToken = 'my_new_token';
+var pageToken = 'CAAOSu26iyH0BAMW1oRnoelPH2zlNetAldDxZBIBrHaLnatOsA32WvYaeaBMZAjV7wmN9Oo8o4C1bK21JHXzDy9UKu2SL9mjZAgwNWvl5PMK3c3qzpSGj1vtOnMoyVT3N2V4LwhZCS94KGov2QYfcHNG761yZCmZAe4F6Qtq9Jz1xZBPJ6s4yRn7ZAp7pKvg1AV1nzvMbJKQOBQZDZD';
+var verifyToken = 'HELLO-VC-TESTERS';
 
 var app = express();
 
@@ -122,3 +122,4 @@ function sendGenericMessage (sender) {
         }
     });
 }
+
